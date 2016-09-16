@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 608f407418420c94691a4ca965cea5b0
+timeCreated: 1459757428
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shooter_Earth_Shoot_0
+    21300002: Shooter_Earth_Shoot_1
+    21300004: Shooter_Earth_Shoot_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shooter_Earth_Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: -66}
+        - {x: 207, y: -54}
+        - {x: 256, y: -29}
+        - {x: 256, y: 11}
+        - {x: 249, y: 23}
+        - {x: 219, y: 49}
+        - {x: 166, y: 46}
+        - {x: 158, y: 19}
+        - {x: 50, y: 13}
+        - {x: 107, y: 148}
+        - {x: 53, y: 151}
+        - {x: 36, y: 192}
+        - {x: -6, y: 238}
+        - {x: -40, y: 238}
+        - {x: -79, y: 230}
+        - {x: -115, y: 188}
+        - {x: -150, y: 128}
+        - {x: -162, y: 101}
+        - {x: -162, y: 50}
+        - {x: -132, y: 33}
+        - {x: -154, y: -11}
+        - {x: -144, y: -60}
+        - {x: -87, y: -154}
+        - {x: -132, y: -202}
+        - {x: -134, y: -230}
+        - {x: -93, y: -232}
+        - {x: -57, y: -232}
+        - {x: -48, y: -230}
+        - {x: -25, y: -172}
+        - {x: -7, y: -231}
+        - {x: 8, y: -232}
+        - {x: 86, y: -232}
+        - {x: 80, y: -198}
+        - {x: 39, y: -112}
+        - {x: 57, y: -75}
+    - name: Shooter_Earth_Shoot_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -45}
+        - {x: 111, y: -11}
+        - {x: 125, y: 80}
+        - {x: 125, y: 95}
+        - {x: 114, y: 113}
+        - {x: 64, y: 65}
+        - {x: 78, y: 107}
+        - {x: 84, y: 123}
+        - {x: 86, y: 141}
+        - {x: 50, y: 158}
+        - {x: 11, y: 230}
+        - {x: -20, y: 238}
+        - {x: -43, y: 238}
+        - {x: -73, y: 225}
+        - {x: -86, y: 219}
+        - {x: -99, y: 205}
+        - {x: -104, y: 196}
+        - {x: -111, y: 179}
+        - {x: -165, y: 99}
+        - {x: -165, y: 47}
+        - {x: -155, y: -44}
+        - {x: -92, y: -135}
+        - {x: -132, y: -202}
+        - {x: -134, y: -230}
+        - {x: -93, y: -232}
+        - {x: -57, y: -232}
+        - {x: -48, y: -230}
+        - {x: -7, y: -231}
+        - {x: 8, y: -232}
+        - {x: 87, y: -232}
+        - {x: 84, y: -195}
+        - {x: 52, y: -149}
+        - {x: 37, y: -69}
+    - name: Shooter_Earth_Shoot_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: -44}
+        - {x: 117, y: -26}
+        - {x: 154, y: 39}
+        - {x: 154, y: 56}
+        - {x: 141, y: 66}
+        - {x: 70, y: 29}
+        - {x: 41, y: 51}
+        - {x: 78, y: 87}
+        - {x: 92, y: 145}
+        - {x: 50, y: 166}
+        - {x: 0, y: 238}
+        - {x: -52, y: 238}
+        - {x: -109, y: 208}
+        - {x: -124, y: 129}
+        - {x: -163, y: 105}
+        - {x: -163, y: 55}
+        - {x: -139, y: 36}
+        - {x: -162, y: -48}
+        - {x: -83, y: -154}
+        - {x: -132, y: -202}
+        - {x: -134, y: -230}
+        - {x: -93, y: -232}
+        - {x: -57, y: -232}
+        - {x: -48, y: -230}
+        - {x: -25, y: -172}
+        - {x: 0, y: -232}
+        - {x: 82, y: -232}
+        - {x: 86, y: -208}
+        - {x: 49, y: -120}
+        - {x: 34, y: -63}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

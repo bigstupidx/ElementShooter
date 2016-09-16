@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 871075940d147c042ab3fb37b20c00a1
+timeCreated: 1459757205
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shooter_Dark_Run_0
+    21300002: Shooter_Dark_Run_1
+    21300004: Shooter_Dark_Run_2
+    21300006: Shooter_Dark_Run_3
+    21300008: Shooter_Dark_Run_4
+    21300010: Shooter_Dark_Run_5
+    21300012: Shooter_Dark_Run_6
+    21300014: Shooter_Dark_Run_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shooter_Dark_Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -102}
+        - {x: 40, y: -47}
+        - {x: 78, y: -47}
+        - {x: 118, y: -24}
+        - {x: 147, y: 48}
+        - {x: 166, y: 89}
+        - {x: 166, y: 127}
+        - {x: 133, y: 123}
+        - {x: 102, y: 201}
+        - {x: 72, y: 217}
+        - {x: 17, y: 217}
+        - {x: 9, y: 214}
+        - {x: -31, y: 175}
+        - {x: -57, y: 119}
+        - {x: -98, y: 72}
+        - {x: -89, y: 46}
+        - {x: -93, y: 11}
+        - {x: -100, y: -1}
+        - {x: -100, y: -38}
+        - {x: -80, y: -79}
+        - {x: -76, y: -137}
+        - {x: -99, y: -180}
+        - {x: -100, y: -185}
+        - {x: -100, y: -228}
+        - {x: -45, y: -247}
+        - {x: -18, y: -247}
+        - {x: -15, y: -242}
+        - {x: -20, y: -192}
+        - {x: 42, y: -153}
+    - name: Shooter_Dark_Run_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -232}
+        - {x: 14, y: -256}
+        - {x: 36, y: -256}
+        - {x: 52, y: -253}
+        - {x: 31, y: -180}
+        - {x: 51, y: -37}
+        - {x: 99, y: -42}
+        - {x: 159, y: 72}
+        - {x: 159, y: 126}
+        - {x: 157, y: 128}
+        - {x: 107, y: 184}
+        - {x: 67, y: 223}
+        - {x: 21, y: 223}
+        - {x: -37, y: 192}
+        - {x: -50, y: 127}
+        - {x: -89, y: 96}
+        - {x: -97, y: 53}
+        - {x: -107, y: 11}
+        - {x: -106, y: -33}
+        - {x: -74, y: -68}
+        - {x: -86, y: -131}
+        - {x: -120, y: -172}
+        - {x: -120, y: -193}
+        - {x: -83, y: -252}
+        - {x: -77, y: -256}
+        - {x: -62, y: -256}
+        - {x: -53, y: -245}
+        - {x: -52, y: -220}
+        - {x: -49, y: -227}
+    - name: Shooter_Dark_Run_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -227}
+        - {x: 38, y: -239}
+        - {x: 66, y: -239}
+        - {x: 122, y: -196}
+        - {x: 92, y: -186}
+        - {x: 26, y: -106}
+        - {x: 104, y: -10}
+        - {x: 114, y: 35}
+        - {x: 154, y: 91}
+        - {x: 154, y: 131}
+        - {x: 153, y: 132}
+        - {x: 68, y: 227}
+        - {x: 19, y: 227}
+        - {x: -39, y: 205}
+        - {x: -66, y: 130}
+        - {x: -109, y: 87}
+        - {x: -99, y: 60}
+        - {x: -86, y: 51}
+        - {x: -111, y: 5}
+        - {x: -110, y: -28}
+        - {x: -98, y: -40}
+        - {x: -83, y: -53}
+        - {x: -125, y: -142}
+        - {x: -125, y: -238}
+        - {x: -123, y: -239}
+        - {x: -101, y: -239}
+        - {x: -88, y: -224}
+        - {x: -32, y: -138}
+        - {x: -20, y: -185}
+    - name: Shooter_Dark_Run_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -38}
+        - {x: 121, y: -10}
+        - {x: 166, y: 89}
+        - {x: 166, y: 125}
+        - {x: 133, y: 123}
+        - {x: 102, y: 201}
+        - {x: 72, y: 217}
+        - {x: 17, y: 217}
+        - {x: 9, y: 214}
+        - {x: -31, y: 175}
+        - {x: -66, y: 126}
+        - {x: -108, y: 46}
+        - {x: -83, y: 49}
+        - {x: -75, y: 40}
+        - {x: -113, y: 30}
+        - {x: -99, y: -66}
+        - {x: -163, y: -152}
+        - {x: -163, y: -171}
+        - {x: -129, y: -180}
+        - {x: -40, y: -168}
+        - {x: -32, y: -235}
+        - {x: -21, y: -240}
+        - {x: 57, y: -240}
+        - {x: 63, y: -224}
+        - {x: 43, y: -193}
+        - {x: 80, y: -47}
+    - name: Shooter_Dark_Run_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -136}
+        - {x: 48, y: -74}
+        - {x: 88, y: -51}
+        - {x: 127, y: -12}
+        - {x: 144, y: 50}
+        - {x: 166, y: 91}
+        - {x: 166, y: 125}
+        - {x: 133, y: 123}
+        - {x: 102, y: 201}
+        - {x: 72, y: 217}
+        - {x: 17, y: 217}
+        - {x: 9, y: 214}
+        - {x: -31, y: 175}
+        - {x: -48, y: 112}
+        - {x: -84, y: 88}
+        - {x: -92, y: 43}
+        - {x: -108, y: -8}
+        - {x: -93, y: -101}
+        - {x: -110, y: -140}
+        - {x: -110, y: -166}
+        - {x: -105, y: -237}
+        - {x: -79, y: -239}
+        - {x: -64, y: -215}
+        - {x: -65, y: -223}
+        - {x: -5, y: -240}
+        - {x: 41, y: -240}
+        - {x: 27, y: -162}
+        - {x: 43, y: -163}
+    - name: Shooter_Dark_Run_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -109}
+        - {x: 73, y: -117}
+        - {x: 91, y: -112}
+        - {x: 102, y: -95}
+        - {x: 91, y: -53}
+        - {x: 110, y: -12}
+        - {x: 146, y: 74}
+        - {x: 157, y: 103}
+        - {x: 157, y: 129}
+        - {x: 138, y: 132}
+        - {x: 69, y: 224}
+        - {x: 17, y: 224}
+        - {x: -39, y: 190}
+        - {x: -46, y: 118}
+        - {x: -78, y: 105}
+        - {x: -100, y: 86}
+        - {x: -91, y: 39}
+        - {x: -110, y: -16}
+        - {x: -118, y: -47}
+        - {x: -118, y: -112}
+        - {x: -79, y: -154}
+        - {x: -97, y: -189}
+        - {x: -93, y: -201}
+        - {x: -8, y: -255}
+        - {x: 4, y: -255}
+        - {x: 18, y: -236}
+        - {x: -9, y: -187}
+        - {x: 19, y: -148}
+    - name: Shooter_Dark_Run_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -189}
+        - {x: 80, y: -168}
+        - {x: 49, y: -147}
+        - {x: 31, y: -78}
+        - {x: 100, y: -62}
+        - {x: 115, y: 54}
+        - {x: 145, y: 81}
+        - {x: 149, y: 98}
+        - {x: 149, y: 146}
+        - {x: 55, y: 229}
+        - {x: 20, y: 229}
+        - {x: -18, y: 221}
+        - {x: -54, y: 171}
+        - {x: -96, y: 111}
+        - {x: -116, y: 61}
+        - {x: -74, y: 39}
+        - {x: -107, y: 8}
+        - {x: -137, y: -43}
+        - {x: -137, y: -79}
+        - {x: -116, y: -116}
+        - {x: -80, y: -93}
+        - {x: -82, y: -127}
+        - {x: -122, y: -151}
+        - {x: -74, y: -223}
+        - {x: -71, y: -227}
+        - {x: -52, y: -227}
+        - {x: -26, y: -174}
+        - {x: -12, y: -214}
+        - {x: 54, y: -202}
+    - name: Shooter_Dark_Run_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: -137}
+        - {x: 84, y: -107}
+        - {x: 69, y: -84}
+        - {x: 42, y: -36}
+        - {x: 88, y: -40}
+        - {x: 116, y: -16}
+        - {x: 158, y: 77}
+        - {x: 163, y: 93}
+        - {x: 163, y: 135}
+        - {x: 126, y: 172}
+        - {x: 70, y: 220}
+        - {x: 10, y: 220}
+        - {x: -2, y: 216}
+        - {x: -42, y: 163}
+        - {x: -92, y: 92}
+        - {x: -91, y: 43}
+        - {x: -112, y: -12}
+        - {x: -90, y: -55}
+        - {x: -131, y: -137}
+        - {x: -131, y: -154}
+        - {x: -124, y: -166}
+        - {x: -102, y: -164}
+        - {x: -50, y: -166}
+        - {x: -61, y: -236}
+        - {x: 34, y: -236}
+        - {x: 34, y: -234}
+        - {x: 35, y: -202}
+        - {x: 38, y: -165}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

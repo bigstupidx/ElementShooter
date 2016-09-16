@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 19c90fcd5afa0154482f4fb95065509f
+timeCreated: 1458415726
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robot_Fire_Dead_0
+    21300002: Robot_Fire_Dead_1
+    21300004: Robot_Fire_Dead_2
+    21300006: Robot_Fire_Dead_3
+    21300008: Robot_Fire_Dead_4
+    21300010: Robot_Fire_Dead_5
+    21300012: Robot_Fire_Dead_6
+    21300014: Robot_Fire_Dead_7
+    21300016: Robot_Fire_Dead_8
+    21300018: Robot_Fire_Dead_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Robot_Fire_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: -207}
+        - {x: -119, y: -232}
+        - {x: -46, y: -233}
+        - {x: -21, y: -231}
+        - {x: -21, y: -207}
+        - {x: -35, y: -188}
+        - {x: -27, y: -147}
+        - {x: -23, y: -78}
+        - {x: -6, y: -13}
+        - {x: 27, y: 92}
+        - {x: 27, y: 138}
+        - {x: 23, y: 155}
+        - {x: -3, y: 199}
+        - {x: -29, y: 216}
+        - {x: -42, y: 222}
+        - {x: -77, y: 222}
+        - {x: -91, y: 218}
+        - {x: -136, y: 184}
+        - {x: -163, y: 155}
+        - {x: -190, y: 110}
+        - {x: -187, y: 58}
+        - {x: -207, y: -8}
+        - {x: -198, y: -136}
+        - {x: -235, y: -163}
+        - {x: -235, y: -181}
+        - {x: -170, y: -239}
+        - {x: -157, y: -239}
+        - {x: -138, y: -230}
+        - {x: -146, y: -193}
+        - {x: -111, y: -175}
+        - {x: -99, y: -145}
+    - name: Robot_Fire_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -192}
+        - {x: -11, y: -180}
+        - {x: -4, y: -164}
+        - {x: -6, y: -88}
+        - {x: 9, y: -43}
+        - {x: 61, y: 51}
+        - {x: 69, y: 73}
+        - {x: 69, y: 121}
+        - {x: 55, y: 162}
+        - {x: 34, y: 185}
+        - {x: 9, y: 198}
+        - {x: -24, y: 198}
+        - {x: -76, y: 180}
+        - {x: -128, y: 142}
+        - {x: -152, y: 86}
+        - {x: -147, y: 48}
+        - {x: -168, y: 38}
+        - {x: -184, y: -27}
+        - {x: -179, y: -57}
+        - {x: -177, y: -125}
+        - {x: -222, y: -134}
+        - {x: -235, y: -150}
+        - {x: -235, y: -175}
+        - {x: -193, y: -246}
+        - {x: -164, y: -237}
+        - {x: -155, y: -193}
+        - {x: -106, y: -256}
+        - {x: -82, y: -256}
+        - {x: -72, y: -239}
+        - {x: -74, y: -222}
+        - {x: -47, y: -187}
+    - name: Robot_Fire_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: -228}
+        - {x: -160, y: -233}
+        - {x: -140, y: -233}
+        - {x: -123, y: -226}
+        - {x: -109, y: -194}
+        - {x: -67, y: -205}
+        - {x: -43, y: -202}
+        - {x: 2, y: -217}
+        - {x: 26, y: -170}
+        - {x: 14, y: -86}
+        - {x: 93, y: 2}
+        - {x: 108, y: 29}
+        - {x: 109, y: 42}
+        - {x: 109, y: 109}
+        - {x: 103, y: 127}
+        - {x: 65, y: 165}
+        - {x: 18, y: 165}
+        - {x: -8, y: 161}
+        - {x: -61, y: 142}
+        - {x: -97, y: 114}
+        - {x: -113, y: 75}
+        - {x: -113, y: 45}
+        - {x: -141, y: 39}
+        - {x: -161, y: -8}
+        - {x: -172, y: -119}
+        - {x: -230, y: -121}
+        - {x: -230, y: -193}
+        - {x: -229, y: -233}
+        - {x: -199, y: -233}
+        - {x: -197, y: -232}
+        - {x: -185, y: -218}
+        - {x: -181, y: -208}
+        - {x: -158, y: -182}
+    - name: Robot_Fire_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -193}
+        - {x: -40, y: -130}
+        - {x: -26, y: -178}
+        - {x: 10, y: -230}
+        - {x: 33, y: -228}
+        - {x: 58, y: -204}
+        - {x: 24, y: -116}
+        - {x: 108, y: -64}
+        - {x: 147, y: -13}
+        - {x: 147, y: 69}
+        - {x: 123, y: 108}
+        - {x: 100, y: 121}
+        - {x: -16, y: 121}
+        - {x: -55, y: 95}
+        - {x: -78, y: 57}
+        - {x: -79, y: 32}
+        - {x: -130, y: 26}
+        - {x: -136, y: -40}
+        - {x: -151, y: -86}
+        - {x: -189, y: -128}
+        - {x: -225, y: -118}
+        - {x: -239, y: -173}
+        - {x: -239, y: -228}
+        - {x: -235, y: -235}
+        - {x: -145, y: -235}
+        - {x: -142, y: -220}
+        - {x: -66, y: -216}
+        - {x: -64, y: -212}
+    - name: Robot_Fire_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -184}
+        - {x: 37, y: -146}
+        - {x: 140, y: -106}
+        - {x: 171, y: -80}
+        - {x: 177, y: -46}
+        - {x: 177, y: 28}
+        - {x: 154, y: 61}
+        - {x: 80, y: 80}
+        - {x: 12, y: 80}
+        - {x: -6, y: 75}
+        - {x: -22, y: 59}
+        - {x: -42, y: 27}
+        - {x: -40, y: 4}
+        - {x: -47, y: 16}
+        - {x: -50, y: 19}
+        - {x: -102, y: 31}
+        - {x: -118, y: -46}
+        - {x: -171, y: -122}
+        - {x: -220, y: -107}
+        - {x: -253, y: -195}
+        - {x: -253, y: -211}
+        - {x: -244, y: -218}
+        - {x: -205, y: -233}
+        - {x: -171, y: -231}
+        - {x: -83, y: -229}
+        - {x: -34, y: -175}
+        - {x: -19, y: -200}
+        - {x: 37, y: -233}
+        - {x: 60, y: -233}
+        - {x: 76, y: -216}
+        - {x: 73, y: -198}
+        - {x: 73, y: -194}
+    - name: Robot_Fire_Dead_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194, y: -126}
+        - {x: 204, y: -92}
+        - {x: 204, y: -21}
+        - {x: 178, y: 25}
+        - {x: 128, y: 39}
+        - {x: 39, y: 39}
+        - {x: 3, y: 20}
+        - {x: -44, y: -34}
+        - {x: -52, y: -17}
+        - {x: -65, y: -14}
+        - {x: -112, y: -101}
+        - {x: -161, y: -123}
+        - {x: -197, y: -106}
+        - {x: -248, y: -158}
+        - {x: -256, y: -172}
+        - {x: -256, y: -192}
+        - {x: -221, y: -239}
+        - {x: -168, y: -229}
+        - {x: -122, y: -230}
+        - {x: -100, y: -241}
+        - {x: -93, y: -241}
+        - {x: -66, y: -206}
+        - {x: -31, y: -209}
+        - {x: -19, y: -209}
+        - {x: 34, y: -218}
+        - {x: 61, y: -235}
+        - {x: 80, y: -241}
+        - {x: 123, y: -241}
+        - {x: 144, y: -208}
+        - {x: 128, y: -189}
+        - {x: 100, y: -177}
+      - - {x: -103, y: 256}
+        - {x: -103, y: 254}
+        - {x: -100, y: 248}
+        - {x: -93, y: 248}
+        - {x: -87, y: 250}
+        - {x: -85, y: 255}
+        - {x: -85, y: 256}
+    - name: Robot_Fire_Dead_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -243}
+        - {x: 114, y: -243}
+        - {x: 173, y: -220}
+        - {x: 210, y: -159}
+        - {x: 226, y: -114}
+        - {x: 226, y: -58}
+        - {x: 203, y: -12}
+        - {x: 157, y: 1}
+        - {x: 80, y: 1}
+        - {x: 53, y: -4}
+        - {x: 16, y: -35}
+        - {x: -19, y: -50}
+        - {x: -56, y: -113}
+        - {x: -115, y: -142}
+        - {x: -143, y: -119}
+        - {x: -155, y: -115}
+        - {x: -239, y: -137}
+        - {x: -239, y: -158}
+        - {x: -225, y: -175}
+        - {x: -223, y: -199}
+        - {x: -207, y: -227}
+        - {x: -188, y: -232}
+        - {x: -151, y: -213}
+        - {x: -102, y: -243}
+        - {x: -89, y: -243}
+        - {x: -88, y: -242}
+        - {x: -88, y: -238}
+        - {x: -45, y: -237}
+        - {x: 20, y: -238}
+    - name: Robot_Fire_Dead_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 234, y: -91}
+        - {x: 231, y: -67}
+        - {x: 209, y: -40}
+        - {x: 147, y: -16}
+        - {x: 128, y: -14}
+        - {x: 71, y: -14}
+        - {x: 36, y: -31}
+        - {x: 25, y: -47}
+        - {x: -10, y: -47}
+        - {x: -40, y: -66}
+        - {x: -54, y: -115}
+        - {x: -120, y: -150}
+        - {x: -180, y: -132}
+        - {x: -185, y: -139}
+        - {x: -236, y: -203}
+        - {x: -236, y: -216}
+        - {x: -231, y: -228}
+        - {x: -205, y: -243}
+        - {x: -180, y: -243}
+        - {x: -132, y: -227}
+        - {x: -100, y: -243}
+        - {x: -61, y: -243}
+        - {x: -13, y: -226}
+        - {x: 15, y: -243}
+        - {x: 111, y: -243}
+        - {x: 157, y: -227}
+        - {x: 205, y: -194}
+        - {x: 234, y: -144}
+    - name: Robot_Fire_Dead_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: -228}
+        - {x: 191, y: -202}
+        - {x: 220, y: -168}
+        - {x: 233, y: -131}
+        - {x: 233, y: -86}
+        - {x: 220, y: -49}
+        - {x: 156, y: -15}
+        - {x: 64, y: -15}
+        - {x: 59, y: -16}
+        - {x: 21, y: -46}
+        - {x: -19, y: -55}
+        - {x: -32, y: -73}
+        - {x: -41, y: -92}
+        - {x: -94, y: -135}
+        - {x: -175, y: -128}
+        - {x: -204, y: -152}
+        - {x: -237, y: -201}
+        - {x: -237, y: -225}
+        - {x: -203, y: -244}
+        - {x: -170, y: -244}
+        - {x: -133, y: -226}
+        - {x: -116, y: -241}
+        - {x: -102, y: -244}
+        - {x: -64, y: -244}
+        - {x: -14, y: -230}
+        - {x: 13, y: -244}
+        - {x: 108, y: -244}
+    - name: Robot_Fire_Dead_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: -227}
+        - {x: 191, y: -201}
+        - {x: 220, y: -167}
+        - {x: 233, y: -130}
+        - {x: 233, y: -85}
+        - {x: 220, y: -48}
+        - {x: 156, y: -14}
+        - {x: 64, y: -14}
+        - {x: 59, y: -15}
+        - {x: 21, y: -45}
+        - {x: -11, y: -47}
+        - {x: -41, y: -66}
+        - {x: -55, y: -115}
+        - {x: -121, y: -150}
+        - {x: -174, y: -127}
+        - {x: -204, y: -151}
+        - {x: -237, y: -200}
+        - {x: -237, y: -224}
+        - {x: -203, y: -243}
+        - {x: -170, y: -243}
+        - {x: -133, y: -225}
+        - {x: -116, y: -240}
+        - {x: -102, y: -243}
+        - {x: -64, y: -243}
+        - {x: -14, y: -229}
+        - {x: 13, y: -243}
+        - {x: 108, y: -243}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
