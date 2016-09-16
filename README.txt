@@ -5,6 +5,10 @@ Progression Note:
 - The leaderboard menu is currently half-done.
 - The setting and tutorial menu is not available yet.
 
+Installation Note:
+- Copy ElementShooter_v001.apk to any directory on your android device.
+- Install and enjoy the game!
+
 How-to-play:
 1. Enemies will come from right side of the map.
 2. Shoot enemies with superior element compare to its element to destroy them.
